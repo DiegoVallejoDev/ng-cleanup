@@ -1,0 +1,28 @@
+{
+  "name": "mtb",
+  "version": "0.1.0",
+  "description": "a JavaScript library for building applications with a consistent design and code structure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "bin": {
+    "ng-cleanup": "bin/ng-cleanup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoVallejoDev/ng-cleanup.git"
+  },
+  "keywords": [
+    "Angular",
+    "Components",
+    "Maintenance",
+    "CLI"
+  ],
+  "author": "Diego Vallejo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiegoVallejoDev/ng-cleanup/issues"
+  },
+  "homepage": "https://github.com/DiegoVallejoDev/ng-cleanup"
+}
